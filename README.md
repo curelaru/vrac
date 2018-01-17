@@ -6,5 +6,5 @@
 
 [GitLab](https://gitlab.com/parAndrei)
 
-Yep. Whatever. I'll be back! 
+Yep. Whatever. 
 
